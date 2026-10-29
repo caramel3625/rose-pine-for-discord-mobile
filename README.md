@@ -32,9 +32,13 @@
 ## Contributing
 
 <!-- BLOOM_BUILD_START -->
+
 This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
 
 ```sh
-bloom build template.yaml --output dist --prefix $ --format hex
+bloom build /home/v/rose-pine/rose-pine-template.json --output dist --prefix $ --format hex
+```
+
+<!-- BLOOM_BUILD_END --> dist --prefix $ --format hex
 ```
 <!-- BLOOM_BUILD_END -->
