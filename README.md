@@ -9,7 +9,7 @@
 
 1. Copy the corresponding link for the theme you're trying to install: [Rosé Pine](https://raw.githubusercontent.com/caramel3625/rose-pine-for-discord-mobile/refs/heads/main/dist/rose-pine.json), [Rosé Pine Moon](https://raw.githubusercontent.com/caramel3625/rose-pine-for-discord-mobile/refs/heads/main/dist/rose-pine-moon.json), [Rosé Pine Dawn](https://raw.githubusercontent.com/caramel3625/rose-pine-for-discord-mobile/refs/heads/main/dist/rose-pine.json-dawn)
 2. Open App
-3. `Settings > Themes > Add theme (plus icon in the bottom left corner)`
+3. `Settings > Themes > Add theme (plus icon in the bottom right corner)`
 4. Paste the link you copied and tap `Install`
 5. Select `Rosé Pine`, `Rosé Pine Moon`, or `Rosé Pine Dawn` from the list of themes.
 6. Done!
